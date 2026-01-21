@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  background: gradient(#eefff9 0%,#ffccc1 49%,#dcdbff 100%);
+}
+body {
+  background-color: rgb(90, 130, 126);
+  
+}
+.container {
+  background: rgb(250, 255, 202);
+  width: 50%;
+  height: 540px;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+  border-radius: 20px;
+  text-align: center;
+  margin-top: 130px;
+
+}
+h1{
+  padding: 30px;
+}
+p{
+  font-size: 24px;
+  line-height: 1.8;
+}
+.form {
+  line-height:6;
+
+}
+label {
+  font-size: 22px;
+}
+.guessField {
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  font-size: 22px;
+
+  
+}
+.guessSubmit {
+  border-color: rgb(132, 174, 146);
+  background-color: rgb(185, 212, 170);
+  font-size: 24px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px rgba(246, 242, 8, 0.671);
+
+}
